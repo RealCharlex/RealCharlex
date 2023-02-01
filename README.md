@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="850" src="codigo 03.png" alt="banner">
+  <img width="850" height="300" src="codigo 03.png" alt="banner">
 </p>
 ---
 <p align="center">    <b>Hi, I present you my github profile, Welcome !<b> </p> 
