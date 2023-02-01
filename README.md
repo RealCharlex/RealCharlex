@@ -8,6 +8,7 @@
   **The technical skills that I manage are:**<br>
     JavaScript, React, Redux, NodeJS, HTML5, CSS, Express, PostgreSQL, Sequelize, npm, Bootstrap, Visual Studio Code 
     <p>
+      <div style="display:flex; flex-wrap:wrap;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
       <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
       <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" alt="Redux" height="40" style="vertical-align:top; margin:4px">
@@ -19,6 +20,7 @@
        <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/npm/npm-original-wordmark.svg" alt="npm" height="40" style="vertical-align:top; margin:4px">
       <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">      
       <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/visualstudio/visualstudio-plain.svg" alt="VSCode" height="40" style="vertical-align:top; margin:4px">
+        </div>
     </p>
 ## Applications
 **AdilBet** | [Live Site](https://adil-bet.vercel.app/)<br>
@@ -27,7 +29,7 @@ AdilBet, a project carried out with a wonderful team of developers, is a fully f
 My Api Dogs, a web application made for dog lovers, visually attractive where you can get to know all their breeds in depth, through certain functionalities such as filtering, searching, creating and ordering.
 ## Contact Me
 **LinkedIn** | [Juan Carlos Gómez](https://www.linkedin.com/in/juan-carlos-g%C3%B3mez-cucaita-4677a218b/)<br>
-**Email**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| realcharlex@gmail.com<br>
+**Email**&nbsp; &nbsp; &nbsp; | realcharlex@gmail.com<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealCharlex&show_icons=true&theme=gruvbox)
 
