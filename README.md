@@ -29,6 +29,6 @@ My Api Dogs, a web application made for dog lovers, visually attractive where yo
 **LinkedIn** | [Juan Carlos Gómez](https://www.linkedin.com/in/juan-carlos-g%C3%B3mez-cucaita-4677a218b/)<br>
 **Email**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| realcharlex@gmail.com<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanCarlosGómez&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealCharlex&show_icons=true&theme=gruvbox)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanCarlosGómez&label=Profile%20views&color=0e75b6&style=flat" alt="JuanCarlosGómez" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RealCharlex&label=Profile%20views&color=0e75b6&style=flat" alt="JuanCarlosGómez" /> </p>
