@@ -25,7 +25,7 @@
 **AdilBet** | [Live Site](https://adil-bet.vercel.app/)<br>
 AdilBet, a project carried out with a wonderful team of developers, is a fully functional online sports betting page in which we apply various technologies such as JavaScript, React, Redux, sequelize, HTML and CSS using the SCRUM methodology in a harmonious way. In this project I actively participated in all its areas, back-end and front-end, including styles<br><br>
 **My Api Dogs** | [Live Site](https://front-api-countries.vercel.app/)<br>
-My Api Dogs, a web application made for dog lovers, visually attractive where you can get to know all their breeds in depth, through certain functionalities such as filtering, searching, creating and ordering.
+My Api Dogs, a web application made for dogs lovers, visually attractive where you can get to know all their breeds in depth, through certain functionalities such as filtering, searching, creating and ordering.
 ## Contact Me
 **LinkedIn** | [Juan Carlos Gómez](https://www.linkedin.com/in/juan-carlos-g%C3%B3mez-cucaita-4677a218b/)<br>
 **Email**&nbsp; &nbsp; &nbsp; | realcharlex@gmail.com<br>
