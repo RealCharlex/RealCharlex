@@ -8,7 +8,7 @@
   **The technical skills that I manage are:**<br>
     JavaScript, React, Redux, NodeJS, HTML5, CSS, Express, PostgreSQL, Sequelize, npm, Bootstrap, Visual Studio Code 
     <p>
-     <div style="display:flex; flex-wrap:wrap;">
+     <div style="display:flex; flex-wrap:wrap; align:center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="margin:4px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original.svg" alt="React" height="40" style="margin:4px">
   <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" alt="Redux" height="40" style="margin:4px">
